@@ -15,8 +15,3 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki.org/wiki/Beatriz_Souza"
     }
 ];
-
-
-
-
-console.log(dados[0].titulo)
