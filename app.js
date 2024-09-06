@@ -1,13 +1,13 @@
-
-console.log(dados);
-
-let section = document.getElementById('resultados-pesquisa')
-
-for(let i = 0; i <= dados.length; i++){
-    section.innerHTML += `<div class="item-resultado">
-                <h2><a href=${dados[i].link} target="_blank">${dados[i].titulo}</a></h2>
-                <p class="descricao-meta">${dados[i].descricao}</p>
-                <a href=${dados[i].link} target="_blank" >mais sobre ${dados[i].titulo}</a>
-            </div>`
+function pesquisar(){
+    let section = document.getElementById('resultados-pesquisa')
+    let resultado = '';
+    for(let item of dados){
+        resultado += `<div class="item-resultado">
+                    <h2><a href=${item.link} target="_blank">${item.titulo}</a></h2>
+                    <p class="descricao-meta">${item.descricao}</p>
+                    <a href=${item.link} target="_blank" >mais sobre ${item.titulo}</a>
+                </div>`
+    }
+    section.innerHTML = resultado
 }
 
