@@ -22,17 +22,16 @@ h1 {
     /*color: #222831; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
+
 }.box-actor{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 20px;
 }
 
-
 .box-actor img{
-    border: 1px solid white;
     border-radius: 50%;
     height: 100px;
-    margin-bottom: 20px;
 }
 
 /* Estiliza as seções da página */
@@ -153,6 +152,10 @@ footer {
     h1 {
         font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
+    }
+    .box-actor img{
+        border-radius: 50%;
+        height: 60px;
     }
 
     section input {
