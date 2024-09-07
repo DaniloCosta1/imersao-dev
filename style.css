@@ -34,6 +34,7 @@ h1 {
     height: 100px;
 }
 
+
 /* Estiliza as seções da página */
 section {
     display: flex; /* Usa Flexbox para layout */
@@ -88,6 +89,13 @@ section button:hover {
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+.mini-header{
+    display: flex;
+}
+.mini-header img{
+    height: 100px;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
@@ -154,8 +162,8 @@ footer {
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
     .box-actor img{
-        border-radius: 50%;
-        height: 60px;
+    border-radius: 50%;
+    height: 60px;
     }
 
     section input {
@@ -174,6 +182,14 @@ footer {
 
     .item-resultado h2 {
         font-size: 1.1rem; /* Tamanho da fonte dos títulos em telas pequenas */
+    }
+
+    .mini-header{
+        display: flex;
+        flex-direction: column;
+    }
+    .mini-header img{
+        height: 100px;
     }
 
     footer {

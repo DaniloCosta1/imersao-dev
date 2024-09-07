@@ -1,9 +1,11 @@
 let dados = [
     {
-        titulo: "Rayssa Leal",
-        descricao: "Rayssa Leal, a 'Fadinha', é uma das maiores promessas do skate mundial. Com apenas [idade] anos, ela já conquistou diversos títulos e se tornou um ícone da nova geração de skatistas. Sua habilidade e carisma a tornaram uma das atletas mais populares do Brasil.",
-        link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
-        tags: "skate sk8 skatista"
+        titulo: "Adam Sandler",
+        nome: "Alexandre Moreno",
+        descricao: "Alexandre Moreno do Nascimento (Nilópolis, 28 de outubro de 1967) é um ator e dublador brasileiro. É conhecido por frequentemente dublar o ator estadunidense Adam Sandler.Ganhou o Prêmio Yamato de Melhor Dublador de Coadjuvante em 2004 dublando Kaká, de Johnny Bravo,[3] e o Prêmio da Dublagem Carioca na categoria Melhor Ator em Dublagem de Protagonista dublando o Gato de Botas na série Shrek e no filme homônimo.Foi indicado a Melhor Dublador de Coadjuvante no Prêmio Yamato de 2005 por seu trabalho como o vilão Síndrome, em Os Incríveis.Foi indicado para o Prêmio Yamato de 2011 de Melhor Dublador de Protagonista pela dublagem de Dr. Watson em Sherlock Holmes. Na mesma premiação, concorreu a Melhor Dublador de Coadjuvante por seu trabalho como Ken em Toy Story 3",
+        link: "https://pt.wikipedia.org/wiki/Alexandre_Moreno_(dublador)#Pr%C3%AAmios_e_indica%C3%A7%C3%B5es",
+        foto: "image/alexandre.webp"
+        
     },
     {
         titulo: "Rebeca Andrade",
