@@ -16,6 +16,7 @@ function pesquisar(){
                             <div class="mini-header">
                                 <img src="${item.foto}" alt="">
                                 <h2><a href=${item.link} target="_blank">${item.nome}</a></h2>
+                                <img src="${item.dublador}" alt="">
                             </div>                            
                             <p class="descricao-meta">${item.descricao}</p>
                             <a href=${item.link} target="_blank" >mais sobre ${item.nome}</a>

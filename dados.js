@@ -9,10 +9,14 @@ let dados = [
         
     },
     {
-        titulo: "Rebeca Andrade",
-        descricao: "Rebeca Andrade é um nome que brilha no cenário esportivo mundial. A ginasta brasileira, com sua força, agilidade e determinação, conquistou o coração dos brasileiros e se tornou um ícone do esporte nacional. Bicampeã olímpica, Rebeca acumula diversas medalhas e recordes, sendo a maior medalhista olímpica da história do Brasil. Sua trajetória inspiradora, marcada por superação e dedicação, a tornou um símbolo de força e empoderamento para jovens atletas e para toda a sociedade.",
-        link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
-        tags: "ginastica "
+        titulo: "Eddie Murphy",
+        nome: "Mário Jorge",
+        descricao: "Mário Jorge Ferreira de Andrade (Rio de Janeiro, 20 de fevereiro de 1954) é um ator, dublador e diretor de dublagem brasileiro. Veterano, foi casado por 27 anos com a colega Mônica Rossi, e com ela teve a filha também dubladora Carol Kapfer. Mário Jorge dubla no Rio de Janeiro e em algumas ocasiões em São Paulo. É famoso por ser o dublador oficial dos atores Eddie Murphy[1] e John Travolta[2], e por ser dublador recorrente dos atores Steve Guttenberg e Emilio Estevez na maioria dos filmes estrelados por eles e também conhecido por dublar o Burro da quadrilogia Shrek[carece de fontes], Rabicó e o Besouro Casca no Sítio do Picapau Amarelo, Mate de Carros[3], Luke Skywalker na primeira dublagem da saga Star Wars, o Feiticeiro Gorpo do desenho He-Man e os Mestres do Universo e Titio Avô em Titio Avô. Está na dublagem desde 1977.",
+        link: "https://pt.wikipedia.org/wiki/M%C3%A1rio_Jorge",
+        foto: "image/mario.webp",
+        dublador: "image/eddie.webp",
+        
+        
     },
     {
         titulo: "Beatriz Souza",
