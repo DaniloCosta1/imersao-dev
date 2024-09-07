@@ -18,7 +18,7 @@ function pesquisar(){
                                 <h2><a href=${item.link} target="_blank">${item.nome}</a></h2>
                             </div>                            
                             <p class="descricao-meta">${item.descricao}</p>
-                            <a href=${item.link} target="_blank" >mais sobre ${item.titulo}</a>
+                            <a href=${item.link} target="_blank" >mais sobre ${item.nome}</a>
                         </div>`;             
         }
     }

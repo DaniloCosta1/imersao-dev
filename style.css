@@ -93,9 +93,12 @@ section button:hover {
 
 .mini-header{
     display: flex;
+    align-items: center;
 }
 .mini-header img{
-    height: 100px;
+    height: 200px;
+    margin-right: 15%;
+    
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
