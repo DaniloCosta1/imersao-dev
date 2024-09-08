@@ -5,7 +5,7 @@ Uma aplicação web para descobrir quem são os dubladores por trás das suas vo
 
 ### Como funciona?
 
-1. **Pesquisa:** Digite o nome do ator que você quer saber mais sobre.
+1. **Pesquisa:** Digite o nome de um ator(que aparecem nas imagens acima da barra de pesquisa) que você quer saber mais sobre.
 2. **Resultados:** A aplicação busca em sua base de dados e te mostra quem é o dublador responsável.
 
 ### Tecnologias utilizadas:
