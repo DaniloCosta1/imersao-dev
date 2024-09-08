@@ -3,6 +3,8 @@
 
 Uma aplicação web para descobrir quem são os dubladores por trás das suas vozes favoritas!
 
+link: https://imersao-dev-beta.vercel.app/
+
 ### Como funciona?
 
 1. **Pesquisa:** Digite o nome de um ator(que aparecem nas imagens acima da barra de pesquisa) que você quer saber mais sobre.
