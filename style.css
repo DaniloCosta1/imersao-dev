@@ -218,6 +218,7 @@ footer {
     }
 
     footer {
+        margin-top: 5px;
         font-size: 0.9rem; /* Tamanho da fonte do rodapé em telas pequenas */
     }
 }
