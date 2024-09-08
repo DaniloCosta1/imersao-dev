@@ -15,11 +15,11 @@ function pesquisar(){
             resultado += `<div class="item-resultado">
                             <div class="mini-header">
                                 <img src="${item.foto}" alt="">
-                                <h2><a href=${item.link} target="_blank">${item.nome}</a></h2>
-                                <img src="${item.dublador}" alt="">
+                                <h2><a href=${item.link} target="_blank">${item.nome}</a></h2>  
                             </div>                            
                             <p class="descricao-meta">${item.descricao}</p>
-                            <a href=${item.link} target="_blank" >mais sobre ${item.nome}</a>
+                            
+                            <iframe width="560" height="315" src="${item.video}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>`;             
         }
     }

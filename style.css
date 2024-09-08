@@ -84,6 +84,10 @@ section button:hover {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
     background: #FFFFFF; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
@@ -92,12 +96,15 @@ section button:hover {
 }
 
 .mini-header{
+    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: flex-start;
 }
 .mini-header img{
+    margin-right: 15%;
     height: 200px;
+    border-radius: 5px;
     
 }
 
