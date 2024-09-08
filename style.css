@@ -193,13 +193,16 @@ footer {
     .item-resultado h2 {
         font-size: 1.1rem; /* Tamanho da fonte dos títulos em telas pequenas */
     }
-
+    /* danilo*/
     .mini-header{
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .mini-header img{
-        height: 100px;
+        height: 200px;
+        width: 300px;
     }
 
     footer {
