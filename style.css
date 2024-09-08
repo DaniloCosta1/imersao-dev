@@ -201,8 +201,14 @@ footer {
         align-items: center;
     }
     .mini-header img{
-        height: 200px;
-        width: 100vw;
+        height: 150px;
+        width: 200px;
+        margin: 2%;
+    }
+
+    iframe{
+        width: 320px;
+        height: 250px;
     }
 
     footer {
